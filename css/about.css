@@ -1,0 +1,48 @@
+html {
+  background: #000000;
+  color: white;
+  font-size: 1rem;
+}
+main {
+  padding-top: 5em;
+}
+
+.studio-overview {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 5em;
+}
+
+.studio-information {
+  box-sizing: border-box;
+  width: 30em;
+}
+
+.studio-photo {
+  padding-top: 4em;
+  width: 25em
+}
+
+.studio-header {
+  text-align: left;
+  font-size: 3em;
+}
+ div.studio-information > p {
+   text-align: left;
+ }
+
+.studio-services__description {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.studio-services__header {
+  text-align: center;
+  font-size: 3em;
+}
+
+figcaption {
+  width: 25em;
+}
